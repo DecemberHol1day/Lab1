@@ -1,2 +1,2 @@
-# Lab1
-Первая Лаболаторная работа на Си| Laboratory work 1 on C
+# Laboratory work 1 on C
+Первая Лаболаторная работа на Си
